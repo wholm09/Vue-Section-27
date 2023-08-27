@@ -1,0 +1,9 @@
+Watch the video explaining the tasks of this exercise and also download the attached file to work your way through the assignment.
+
+Briefly explain your approach and possible challenges you overcame.
+
+The solution video explains the path I took to solve the problem laid out in the "problem" video. You can find the finished code attached.
+
+It can be challenging to decide which code should go into its own component and which code should be part of another component. 
+
+Try to decide that on a logical basis: Does your code (template/ HTML + JS) have its own business logic? Is it a logical unit of your project? If yes, it might be worth thinking about creating a new component for that piece of code. If not, leave it in the component it currently is in. 
